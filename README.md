@@ -6,7 +6,7 @@
 1. MobileNetV2: Inverted Residuals and Linear Bottlenecks. [[arxiv](https://arxiv.org/abs/1801.04381)] <br>
 
 >2017 <br>
-
+1. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [[arxiv](https://arxiv.org/abs/1704.04861)] <br>
 >2016 <br>
 
 >2015 <br>
