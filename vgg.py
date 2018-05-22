@@ -1,5 +1,7 @@
 """
 vgg 11/13/16/19 in pytorch
+
+please see the paper"Very Deep Convolutional Networks for Large-Scale Image Recognition" for more details.
 """
 import torch
 import torch.nn as nn

@@ -1,3 +1,6 @@
+"""
+please see the paper"Spatial Pyramid Pooling in deep convolutional Networks for visual recognition"for more details.
+"""
 from math import floor, ceil
 import torch
 import torch.nn as nn
